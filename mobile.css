@@ -1,0 +1,233 @@
+/* #3E4755: darkgrey */
+/* #4F5865 dimgrey */
+/* #3E4755 darkslategrey */
+/* #BCC3CF silver*/
+/* #EBEFF8 lavender(light grey)*/
+/* #f98012 orange */
+/* #014a93 blue */
+
+.bar-header {
+background-color: #019339;
+}
+
+ion-side-menu li .item {
+background-color: #313848;
+border-color: #4F5865;
+color: #BCC3CF;
+
+}
+
+ion-side-menu li.item {
+border-color: #4F5865;
+}
+
+ion-side-menu li.item.item-divider {
+background-color: #3E4755;
+}
+
+.ion-ionic:before {
+content: "\f3ea";
+}
+
+.mm-site_mm_courses .tabs-icon-left {
+background-color: #EBEFF8;
+}
+.mm-site_mm_courses section h2 span {
+font-weight: bold;
+}
+
+/* 3.5 styles */
+
+/** Header color */
+.toolbar-background-md,
+.toolbar-background-ios,
+.toolbar-background-wp {
+background: #014a93;
+}
+
+/* Bottom tabs selected color */
+.tabs-md .tab-button[aria-selected=true] .tab-button-icon,
+.tabs-md .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
+.core-tabs-bar .tabs-md a[aria-selected=true].tab-slide .tab-button-icon,
+.tabs-ios .tab-button[aria-selected=true] .tab-button-icon,
+.tabs-md .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
+.core-tabs-bar .tabs-ios a[aria-selected=true].tab-slide .tab-button-icon,
+.tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
+.tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
+.core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
+color: #EBEFF8;
+}
+
+/* Tabs color*/
+.core-tabs-bar .slides a.tab-slide[aria-selected=true] {
+color: #014a93 !important;
+border-bottom-color: #014a93 !important;
+}
+
+/* Loading spinner */
+.spinner circle, .spinner line {
+    stroke: #014a93;
+}
+
+/* Buttons */
+.button-md,
+.button-ios,
+.button-wp,
+.fab-ios,
+.fab-md,
+.fab-wp {
+background-color: #014a93;
+}
+
+.button-outline-md,
+.button-outline-ios,
+.button-outline-wp {
+    border-color: #014a93;
+    background-color: #ffffff;
+    color: #014a93;
+}
+
+.button-clear-md,
+.button-clear-ios,
+.button-clear-wp {
+background-color: transparent;
+color: #014a93;
+}
+
+/* 200108 GHE EEDS */
+/* Dropdown in courses (orange in original) */
+ion-app.app-root.md .button-md-light {
+    color: #3E4755;
+}
+
+/* Color in tabs (orange in original) */
+ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
+    color: #014a93!important;
+    border-bottom-color: #014a93!important;
+}
+
+
+.button-md-light { background-color: #e9e9e9; }
+
+/* Tabbar above course*/
+ion-app.app-root .core-button-select, 
+ion-app.app-root ion-select.core-button-select { color: #014a93; }
+
+ion-app.app-root .core-button-select .select-icon .select-icon-inner, 
+ion-app.app-root ion-select.core-button-select .select-icon .select-icon-inner, 
+.item-radio-checked.item-md ion-label
+{ color: #014a93; }
+
+.radio-md .radio-checked { border-color: #014a93; }
+.radio-md .radio-inner { background-color: #014a93; }
+
+/* Menuitems left selector */
+[dir=ltr] ion-app.app-root .core-primary-selected-item {
+    border-left: 5px solid #014a93;
+}
+
+/* home button as speedometer */
+.ion-md-home:before {
+    content: "\f37f";
+}
+
+/* Feedback header */
+
+.label-md[stacked] { font-weight: 700; font-size: 2rem;}
+
+/* inputfield feedback */
+[dir=ltr] .item-label-stacked .text-input-md, 
+[dir=rtl] .item-label-floating .text-input-md, 
+[dir=rtl] .item-label-stacked .text-input-md {
+    background-color: #efefef;
+}
+
+/* styles for 21/12 meeting */
+
+.button-md:hover:not(.disable-hover) {
+background-color: #014a93;
+color: #ffffff;
+}
+
+.item-md.item-input.ng-valid.input-has-value:not(.input-has-focus):not(.item-input-has-focus) .item-inner, .item-md.item-input.ng-valid.item-input-has-value:not(.input-has-focus):not(.item-input-has-focus) .item-inner {
+border-bottom-color: #014a93;
+
+}
+
+.ion-app.app-root.md .button-md-light:hover {
+color: #ffffff;
+}
+
+.button.button-md.button-default.button-default-md.button-md-light.ng-star-inserted[title="Previous"] {
+float: left;
+}
+
+.button.button-md.button-default.button-default-md.button-md-light.ng-star-inserted[title="Previous"]:hover {
+color: #ffffff !important;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: General"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: General"] {
+background-color: rgb(100, 219, 100);
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.Technical aspects of ultrasound"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 1.Technical aspects of ultrasound"]  {
+background-color: #3aa6b9;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.1.PHYSICS"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 1.1.PHYSICS"]  {
+background-color: #3aa6b9;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.2.Knobology"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 1.2.Knobology"]  {
+background-color: #3aa6b9;
+color: white;
+
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.3.Image Orientation"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 1.3.Image Orientation"]  {
+background-color: #3aa6b9;
+color: white;
+
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.4.Characterisation of a mass"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 1.4.Characterisation of a mass"]  {
+background-color: #3aa6b9;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 2.Normal ultrasound anatomy of the chest and abdomen"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 2.Normal ultrasound anatomy of the chest and abdomen"]  {
+background-color: #e6aa65;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.Ultrasound of effusions and eFAST"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 3.Ultrasound of effusions and eFAST"]  {
+background-color: #b35fcc;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.1.pleural effusion"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 3.1.pleural effusion"]  {
+background-color: #b35fcc;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.2.Pericardial effusion"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 3.2.Pericardial effusion"]  {
+background-color: #b35fcc;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.3.Ascites"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 3.3.Ascites"]  {
+background-color: #b35fcc;
+color: white;
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.4.Pneumothorax"],  .item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="Sections: 3.4.Pneumothorax"]  {
+background-color: #b35fcc;
+color: white;
+}
+
+.item.item-block.item-md.core-primary-selected-item.ng-star-inserted[aria-label="All sections"] {
+    display: none;
+}
