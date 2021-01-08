@@ -32,8 +32,8 @@ $addons = [
                 'delegate' => 'CoreCourseFormatDelegate', // Delegate (where to display the link to the plugin)
                 'method' => 'mobile_course_view', // Main function in \format_mobileformat\output\mobile.
                 'styles' => [
-                    'url' => $CFG->wwwroot . '/course/format/buttons/mobile.css', //think about adding datetime string to the end of this
-                    'version' => 2019041001
+                    'url' => $CFG->wwwroot . '/course/format/buttons/mobile.css', //automatically gets new version
+                    'version' => 2019041002
                 ],
                 'displaysectionselector' => true, // Set to false to disable the default section selector.
                 'displayenabledownload' => true, // Set to false to hide the "Enable download" option in the course context menu.
