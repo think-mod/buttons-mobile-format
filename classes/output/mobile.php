@@ -22,13 +22,14 @@ class mobile {
         $angularTemplate = $CFG->dirroot . '/course/format/buttons/templates/mobile_course.html';
         $data = [];
 
-        return [
+        /*return [
             'templates' => [
                 [
                     'id' => 'main',
                     'html' => $OUTPUT->render_from_template('format_buttons/mobile_course', $data),
                 ]
             ]
-        ];
+        ];*/
+        return [];
     }
 } ?>
