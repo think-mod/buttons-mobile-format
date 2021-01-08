@@ -166,64 +166,64 @@ float: left;
 color: #ffffff !important;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: General"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: General"] {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: General"],  .item.item-block.item-md.ng-star-inserted[aria-label="General"] {
 background-color: rgb(100, 219, 100);
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.Technical aspects of ultrasound"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 1.Technical aspects of ultrasound"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.Technical aspects of ultrasound"],  .item.item-block.item-md.ng-star-inserted[aria-label="1.Technical aspects of ultrasound"]  {
 background-color: #3aa6b9;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.1.PHYSICS"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 1.1.PHYSICS"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.1.PHYSICS"],  .item.item-block.item-md.ng-star-inserted[aria-label="1.1.PHYSICS"]  {
 background-color: #3aa6b9;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.2.Knobology"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 1.2.Knobology"]  {
-background-color: #3aa6b9;
-color: white;
-
-}
-
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.3.Image Orientation"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 1.3.Image Orientation"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.2.Knobology"],  .item.item-block.item-md.ng-star-inserted[aria-label="1.2.Knobology"]  {
 background-color: #3aa6b9;
 color: white;
 
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.4.Characterisation of a mass"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 1.4.Characterisation of a mass"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.3.Image Orientation"],  .item.item-block.item-md.ng-star-inserted[aria-label="1.3.Image Orientation"]  {
+background-color: #3aa6b9;
+color: white;
+
+}
+
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.4.Characterisation of a mass"],  .item.item-block.item-md.ng-star-inserted[aria-label="1.4.Characterisation of a mass"]  {
 background-color: #3aa6b9;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 2.Normal ultrasound anatomy of the chest and abdomen"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 2.Normal ultrasound anatomy of the chest and abdomen"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 2.Normal ultrasound anatomy of the chest and abdomen"],  .item.item-block.item-md.ng-star-inserted[aria-label="2.Normal ultrasound anatomy of the chest and abdomen"]  {
 background-color: #e6aa65;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.Ultrasound of effusions and eFAST"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 3.Ultrasound of effusions and eFAST"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.Ultrasound of effusions and eFAST"],  .item.item-block.item-md.ng-star-inserted[aria-label="3.Ultrasound of effusions and eFAST"]  {
 background-color: #b35fcc;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.1.pleural effusion"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 3.1.pleural effusion"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.1.pleural effusion"],  .item.item-block.item-md.ng-star-inserted[aria-label="3.1.pleural effusion"]  {
 background-color: #b35fcc;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.2.Pericardial effusion"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 3.2.Pericardial effusion"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.2.Pericardial effusion"],  .item.item-block.item-md.ng-star-inserted[aria-label="3.2.Pericardial effusion"]  {
 background-color: #b35fcc;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.3.Ascites"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 3.3.Ascites"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.3.Ascites"],  .item.item-block.item-md.ng-star-inserted[aria-label="3.3.Ascites"]  {
 background-color: #b35fcc;
 color: white;
 }
 
-.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.4.Pneumothorax"],  .item.item-block.item-md.ng-star-inserted[aria-label="Sections: 3.4.Pneumothorax"]  {
+.core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 3.4.Pneumothorax"],  .item.item-block.item-md.ng-star-inserted[aria-label="3.4.Pneumothorax"]  {
 background-color: #b35fcc;
 color: white;
 }
