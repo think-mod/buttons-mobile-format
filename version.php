@@ -29,4 +29,4 @@ $plugin->requires = 2015111600; /* moodle 3.0 */
 $plugin->component = 'format_buttons';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->release = '3.x';
-$plugin->version = 2020072806;
+$plugin->version = 2020072807;
