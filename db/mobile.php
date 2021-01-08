@@ -32,7 +32,7 @@ $addons = [
                 'delegate' => 'CoreCourseFormatDelegate', // Delegate (where to display the link to the plugin)
                 'method' => 'mobile_course_view', // Main function in \format_mobileformat\output\mobile.
                 'styles' => [
-                    'url' => $CFG->wwwroot . '/course/format/buttons/mobile.css', //automatically gets new version
+                    'url' => $CFG->wwwroot . '/course/format/buttons/mobile.css#2', //automatically gets new version
                     'version' => 2019041002
                 ],
                 'displaysectionselector' => true, // Set to false to disable the default section selector.

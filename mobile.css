@@ -167,8 +167,8 @@ color: #ffffff !important;
 }
 
 .core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: General"],  .item.item-block.item-md.ng-star-inserted[aria-label="General"] {
-background-color: rgb(100, 219, 100);
-color: white;
+background-color: rgb(100, 219, 100) !important;
+color: white !important;
 }
 
 .core-button-select.button-no-uppercase.col.button.button-md.button-default.button-default-md.button-md-light[aria-label="Sections: 1.Technical aspects of ultrasound"],  .item.item-block.item-md.ng-star-inserted[aria-label="1.Technical aspects of ultrasound"]  {
