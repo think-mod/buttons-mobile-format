@@ -33,7 +33,7 @@ $addons = [
                 'method' => 'mobile_course_view', // Main function in \format_mobileformat\output\mobile.
                 'styles' => [
                     'url' => $CFG->wwwroot . '/course/format/buttons/mobile.css#2', //automatically gets new version
-                    'version' => 2019041002
+                    'version' => 2019041003
                 ],
                 'displaysectionselector' => true, // Set to false to disable the default section selector.
                 'displayenabledownload' => true, // Set to false to hide the "Enable download" option in the course context menu.
