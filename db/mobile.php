@@ -32,7 +32,7 @@ $addons = [
                 'delegate' => 'CoreCourseFormatDelegate', // Delegate (where to display the link to the plugin)
                 'method' => 'mobile_course_view', // Main function in \format_mobileformat\output\mobile.
                 'styles' => [
-                    'url' => $CFG->wwwroot . '/course/format/buttons/mobile.css'.date('h:i:s'), //think about adding datetime string to the end of this
+                    'url' => $CFG->wwwroot . '/course/format/buttons/mobile.css', //think about adding datetime string to the end of this
                     'version' => 2019041001
                 ],
                 'displaysectionselector' => true, // Set to false to disable the default section selector.
